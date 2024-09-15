@@ -62,7 +62,7 @@ polling-system/
 <h3>Backend Setup</h3>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone &lt;repository_url&gt;
+        <pre><code>git clone https://github.com/lalharsh23/polling-system.git;
 cd polling-system
         </code></pre>
     </li>
@@ -94,4 +94,4 @@ cd polling-system
 <p>Created by <strong>Harsh Lal</strong>.</p>
 
 <h2 id="deployed-link">Deployed Link</h2>
-<p>The API is deployed at: <a href="<your_deployed_link_here>">Your Deployed API Link</a></p>
+<p><a href="https://polling-system-h996.onrender.com">Click here</a></p>
